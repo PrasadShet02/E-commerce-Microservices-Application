@@ -6,12 +6,18 @@ E-commerce-Microservices-Application is a simple and impressive application that
 
 - **Microservice Architecture:** This application demonstrates the power and flexibility of the microservices approach, enabling seamless communication between various independent services.
 - **API Calls:** Gain insights into the efficient utilization of API calls to enable smooth data flow and interaction between different components of the application.
-- **Docker:** Utilize the power of containerization to ensure easy deployment and scalability of the services.
-- **Kubernetes:** Experience the benefits of orchestrating containerized services with Kubernetes, enabling seamless management and scaling of the application.
-- **Jenkins:** Implement a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline with Jenkins to automate the build, test, and deployment processes.
-- **Node.js and Express.js:** Leverage the strengths of Node.js and Express.js to build fast, scalable, and reliable server-side applications.
-- **MongoDB:** Experience the power of MongoDB as a flexible and high-performance NoSQL database for storing and managing data.
 
+## Technology Used
+
+The E-commerce Microservices Application utilizes the following technologies:
+
+- **Docker:** Containerization technology that ensures easy deployment and scalability of the services.
+- **Kubernetes:** Orchestrates containerized services, enabling seamless management and scaling of the application.
+- **Jenkins:** Implements a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate the build, test, and deployment processes.
+- **Node.js:** Server-side JavaScript runtime that enables building fast, scalable, and reliable applications.
+- **Express.js:** A web application framework for Node.js that facilitates the creation of server-side applications.
+- **MongoDB:** A flexible and high-performance NoSQL database for storing and managing data.
+  
 ## How to Run
 
 Follow these simple steps to get the E-commerce Microservices Application up and running on your local machine:
